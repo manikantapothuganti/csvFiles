@@ -1,0 +1,589 @@
+id,name
+1,front end technologies
+2,back end technologies
+3,databases
+4,html
+5,css
+6,javascript
+7,ajax
+8,angular
+9,angular2
+10,angularfire
+11,angular cli
+12,atom
+13,aurelia
+14,babel
+15,babylonjs
+16,backbone.js
+17,bem
+18,blaze
+19,bootstrap
+20,bourbon
+21,bower
+22,brackets
+23,broccoli
+24,browserify
+25,brunch
+26,canvasjs
+27,chart.js
+28,clojurescript
+29,compass
+30,core.js
+,
+32,css modules
+33,css preprocessor
+34,css-related
+35,d3.js
+36,dhtml
+37,dojo
+38,dom
+39,dust.js
+40,ecmascript
+41,electron
+42,ember.js
+43,eslint
+44,extjs
+45,flexbox
+46,flux
+47,foundation
+48,graphql
+49,grunt
+50,gsap
+51,gulp
+52,haml
+53,handlebars.js
+54,highcharts
+,
+56,html-related
+57,htmlpad
+58,immutable.js
+59,infargistics
+60,isomorphic apps
+,
+62,javascript frameworks
+63,jface
+64,jquery
+65,jquery ui
+66,json
+67,jsx
+68,kendo
+69,knockout
+70,leaflet
+71,less
+72,marionette
+73,masonry
+74,mercury
+75,mobx
+76,modernizr
+77,mustache
+78,nunjucks
+79,nvd3
+80,oocss
+81,paperjs
+82,pixijs
+83,polymer
+84,postcss
+85,primeng
+86,prototype
+87,reactjs
+88,redux
+89,relay
+90,requirejs
+91,rxjs
+92,saml
+93,sass
+94,scss
+95,skeleton
+96,socket.io
+97,spine js
+98,stylus
+99,sublime text
+100,three.js
+101,turret
+102,typescript
+103,underscore.js
+104,vanilla js
+105,vue
+106,vuex
+107,webdriver.io
+108,webgl
+109,webkit
+110,webpack
+111,webrx
+112,websphere
+113,webstrom
+114,winforms
+115,wedl
+116,xhtml
+117,yaml
+,
+118,database
+119,arangodb
+120,awr
+121,berkeleydb
+122,bit table
+123,cassandra
+124,cockroachdb
+125,couchbase
+126,couchdb
+127,crud
+128,csv
+129,db2
+130,dbf
+131,dynamodb
+132,event store
+133,firebird
+134,hana
+135,influxdb
+136,interbase
+137,liquidbase
+138,magic keywords for dba
+139,mariadb
+140,memsql
+141,mongodb
+142,ms access
+143,ms sql server
+144,mysql
+145,neo4j
+146,nosql
+147,nosql databases
+148,Object-related mapping(orm)
+149,oracle database
+150,ord
+151,orientdb
+152,percona db
+153,pervasivesql
+154,sql
+155,pl
+156,postgis
+157,postgresql
+158,presto
+159,primary key
+160,rdbms
+161,rds
+162,redis
+163,redshift
+164,relational db
+165,rethink db
+166,riak
+167,rocksdb
+168,sap maxdb
+169,solr
+170,sphinx
+171,sql
+172,sql server
+173,sqlite
+174,sqlmap
+175,T-sql
+176,teradata
+177,toad
+178,voldemort
+,
+179,derby
+180,express.js
+181,hapi
+182,koa
+183,mean
+184,meteor
+185,node.js
+186,restify
+187,sails
+188,php
+189,amp
+190,apc
+191,bitrix framework
+192,blackfire
+193,cakephp
+194,cms
+195,codeception
+196,codeigniter
+197,composer
+198,doctrine
+199,drupal
+200,gearman
+201,hhvm
+202,joomla
+203,kohana
+204,lamp
+205,laravel
+206,magento
+207,mamp
+208,memcached
+209,mockery
+210,modx
+211,mysqli
+212,phalcon
+213,php framework
+214,opencart
+215,Yii
+216,webrick
+217,ruby
+218,active record
+219,capistrano
+220,capybara
+221,crystal
+222,eventmachine
+223,grape
+224,jruby
+225,padrino
+226,passenger
+227,phoenix
+228,rake
+229,rspec
+230,rubygems
+231,ruby arrays
+232,ruby deployment
+233,ruby framework
+234,ruby on rails
+235,ruby testing tools
+236,rvm
+237,sidekiq
+238,sinatra
+239,watir
+240,java
+241,java build tools
+242,java testing tools
+243,activemq
+244,adf
+245,apache ant
+246,apache camel
+247,apache mina
+248,burp suite
+249,cactus
+250,cleartk
+251,dropwizard
+252,dwr
+253,eclipselink
+254,ehcache
+255,ejb
+256,freemaker
+257,glassfish
+258,guice
+259,gradle
+260,grails
+261,groovy
+262,guava
+263,gwt
+264,hibernate
+265,junit
+266,mockito
+267,easymock
+268,cucumber
+269,testng
+270,maven
+271,java ee
+272,java se
+273,java j2ee
+274,spring
+275,spring boot
+276,jms
+277,servlets
+278,phpunit
+279,orm
+280,phpstrom
+281,smarty
+282,typo3
+283,php fpm
+284,phpdocumentor
+285,phpspec
+286,psr
+287,silex
+288,silverstripe
+289,slim
+290,symfony
+291,twig
+292,woocommerce
+293,wordpress
+294,xdebug
+295,zend framework
+296,hybris
+297,intellij
+298,jackson
+299,jass
+300,jade
+301,jaf
+302,jasper reports
+303,java deployment
+304,jsp
+305,ejb
+306,jmx
+307,jaf
+308,java me
+309,java orm framework
+310,java se
+311,swing
+312,play
+313,javafx
+314,jsf
+315,java se framework
+316,javacc
+317,javafx
+318,jaxb
+319,jax-rb
+320,jax-ws
+321,jboss
+322,jbpm
+323,jdbc
+324,jdeveloper
+325,jdk
+326,jersey
+327,jetty
+328,jflex
+329,jfr
+330,jmc
+331,jmm
+332,jmock
+333,jms
+334,jmx
+335,jni
+336,jpa
+337,jpql
+338,jre
+339,jsf
+340,jsoup
+341,jsp
+342,jstl
+343,jvm
+344,keystore
+345,kotlin
+346,lambda
+347,launch4j
+348,log4j
+349,lucene
+350,maven
+351,meshcms
+352,netty
+353,oc4j
+354,opennlp
+355,osgi
+356,powermock
+357,primefaces
+358,progaurd
+359,resin
+360,resteasy
+361,richfaces
+362,roboguice
+363,seam
+364,spring integration
+365,spring mvc
+366,struts
+367,struts 2
+368,thymeleaf
+369,tomcat
+370,tomee
+371,uima
+372,vaadin
+373,weblogic
+374,wicket
+375,wildfly
+376,zk
+377,zxing
+378,c#
+379,csharp
+380,.net
+381,a.net framework
+382,accord.net framework
+383,ado.net
+384,asp.net
+385,asp.net core
+386,asp.net mvc
+387,autofac
+388,c# framework
+389,c# testing tool
+390,chart fx
+391,clr
+392,entity framework
+393,f#
+394,kentico
+395,linq
+396,log4net
+397,mono
+398,moq
+399,msbuild
+400,mstest
+401,nancy
+402,.net core
+403,nhibernate
+404,nunit
+405,ninject
+406,nuget
+407,octopus
+408,orm framework
+409,owin
+410,p
+411,invoke
+412,razor
+413,roslyn
+414,signalr
+415,sitecore cms
+416,specflow
+417,stylecop
+418,vb.net
+419,wcf
+420,wpf
+421,xunit.net
+422,python
+423,python framework
+424,beeware
+425,cherrypy
+426,cpython
+427,dask
+428,django
+429,docutils
+430,flask
+431,jinja2
+432,kivy
+433,numpy
+434,pandas
+435,pybrain
+436,pycharm
+437,pylons
+438,pyparsing
+439,pyramid
+440,pyston
+441,scapy
+442,Scikit-learn
+443,seaborn
+444,sympy
+445,sqlalchemy
+446,tensorflow
+447,theano
+448,tornado
+449,twisted
+450,virtualenv
+451,web.py
+452,web2py
+453,wxpython
+454,c++
+455,cpp
+456,c++ framework
+457,ace
+458,boost
+459,clang
+460,cppdb
+461,visual c++
+462,visual studio
+463,c
+464,ansi c
+465,cuda
+466,kore
+467,scala
+468,scala framework
+469,akka
+470,cats
+471,lift
+472,scalaz
+473,slick
+474,shapeless
+475,spray
+476,apache kafka
+477,colossus
+478,finatra
+479,scalatra
+,
+481,go
+482,echo
+483,gin
+484,goland
+485,gorilla
+486,beego
+487,buffalo
+488,iris
+489,revel
+490,clojure
+491,elixir
+492,elm
+493,erlang
+494,haskell
+495,idris
+496,ocaml
+497,actionscript
+498,ada
+499,assembly language
+500,ccl
+501,cobol
+502,coffeescript
+503,dart
+504,delphi
+505,hack
+506,haxe
+507,lua
+508,maple
+509,perl
+510,r
+511,r language
+512,rpg
+513,vbscript
+514,verilog
+515,xtend
+,
+516,ios
+517,ios framework
+518,coredata
+519,cocoa
+520,cocoa touch
+521,uikit
+522,corelocation
+523,corefoundation
+524,coreimage
+525,coregraphic
+526,objective-c
+527,swift
+528,testflight
+529,hockeyapp
+530,android
+531,android sudio
+532,android ide
+533,android tv
+534,android wear
+535,conductor
+536,dagger
+537,espresso
+538,greendao
+539,sqllite
+540,gtest
+541,logcat
+542,mortar
+543,mosby
+544,cross-platform mobile development
+545,jquery mobile
+546,phonegap
+547,dojo mobile
+548,titanium
+549,xamarin
+550,apache flex
+551,adobe flex
+552,bitrise
+553,cordova
+554,firebase
+555,flutter
+556,glide
+557,hybrid app
+558,ionic
+559,lottie
+560,marmalade
+561,xamarin studio
+562,xamarin.forms
+563,xml
+564,mvc
+565,restful api
+566,zurb
+567,svg
+568,ui
+569,sencha
+570,gui
+571,api
+572,mvvm
+573,npm
+574,spa
+575,rhinoscript
+576,selenium
+577,bdd
+578,tdd
+579,opengl 
+580,opengl es
+581,linux
+582,ide
+583,soap
+584,golang
+585,functional programming
