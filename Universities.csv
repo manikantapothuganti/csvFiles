@@ -1,4 +1,4 @@
-id,university,city,
+rank,university,city,
 840,Abhilashi University,Chailchowk,6
 221,Acharya N.G. Ranga Agricultural University,Hyderabad,3
 154,Acharya Nagarjuna University,Guntur,3
@@ -268,6 +268,7 @@ id,university,city,
 116,Indian Agricultural Research Institute,New Delhi,3
 75,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah ...,1
 50,Indian Institute of Foreign Trade,New Delhi,2
+883,IIIT,,
 41,Indian Institute of Information Technology Allahabad,Allahabad,2
 240,Indian Institute of Information Technology and Management Gwalior,Gwalior,2
 274,"Indian Institute of Information Technology, Design and Manufacturing",Chennai,2
@@ -288,6 +289,7 @@ id,university,city,
 137,"Indian Institute of Science Education and Research, Thiruvananthapuram",Thiruvananthapuram,2
 103,Indian Institute of Space Science and Technology,Thiruvananthapuram,1
 634,Indian Institute of Teacher Education,Gandhinagar,1
+884,IIT,,
 109,Indian Institute of Technology Bhubaneswar,Bhubaneswar,1
 1,Indian Institute of Technology Bombay,Mumbai,1
 7,Indian Institute of Technology Delhi,New Delhi,1
@@ -522,6 +524,7 @@ id,university,city,
 648,"National Institute of Pharmaceutical Education and Research, Kolkata",Kolkata,6
 413,"National Institute of Pharmaceutical Education and Research, Mohali",Mohali,4
 659,"National Institute of Pharmaceutical Education and Research, Rae Bareli",Rae Bareli,6
+885,NIT,,
 220,"National Institute of Technology, Agartala",Agartala,2
 346,"National Institute of Technology, Arunachal Pradesh",Yupia,2
 57,"National Institute of Technology, Calicut",Calicut,2
